@@ -5,14 +5,16 @@
   "cross_monitor_move_behaviour": "Insert",
   "default_workspace_padding": 0,
   "default_container_padding": 0,
+  "display_index_preferences": {
+    "0": "SAME035-5&d95012c&2&UID4357",
+    "1": "GSM7766-5&d95012c&2&UID4353"
+  },
   "border": true,
   "border_width": 0,
   "border_offset": -1,
   "theme": {
-    "palette": "Base16",
-    "name": "Ashes",
-    "unfocused_border": "Base03",
-    "bar_accent": "Base0D"
+    "palette": "Catppuccin",
+    "name": "Macchiato"
   },
   "stackbar": {
     "height": 40,
@@ -35,22 +37,6 @@
         {
           "name": "III",
           "layout": "HorizontalStack"
-        },
-        {
-          "name": "IV",
-          "layout": "UltrawideVerticalStack"
-        },
-        {
-          "name": "V",
-          "layout": "Rows"
-        },
-        {
-          "name": "VI",
-          "layout": "Grid"
-        },
-        {
-          "name": "VII",
-          "layout": "RightMainVerticalStack"
         }
       ]
     }
