@@ -38,6 +38,12 @@
           "PackageIdentifier": "Canonical.Ubuntu"
         },
         {
+          "PackageIdentifier": "Docker.DockerDesktop"
+        },
+        {
+          "PackageIdentifier": "SlackTechnologies.Slack"
+        },
+        {
           "PackageIdentifier": "Microsoft.WindowsTerminal"
         }
       ],
