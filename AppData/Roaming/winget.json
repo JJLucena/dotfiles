@@ -11,6 +11,9 @@
           "PackageIdentifier": "Neovim.Neovim"
         },
         {
+          "PackageIdentifier": "CoreyButler.NVMforWindows"
+        },
+        {
           "PackageIdentifier": "Mozilla.Firefox"
         },
         {
