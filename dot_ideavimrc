@@ -1,5 +1,5 @@
 set ideajoin
 set ideamarks
-set clipboard+=ideaput
+set clipboard=unnamedplus
 
 set relativenumber
