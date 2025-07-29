@@ -4,6 +4,9 @@
   "Sources": [
     {
       "Packages": [
+	{
+	  "PackageIdentifier": "DEVCOM.JetBrainsMonoNerdFont"
+	},
         {
           "PackageIdentifier": "Git.Git"
         },
@@ -12,9 +15,6 @@
         },
         {
           "PackageIdentifier": "CoreyButler.NVMforWindows"
-        },
-        {
-          "PackageIdentifier": "Mozilla.Firefox"
         },
         {
           "PackageIdentifier": "LGUG2Z.whkd"
@@ -34,6 +34,9 @@
         {
           "PackageIdentifier": "Microsoft.PowerToys"
         },
+	{
+	  "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+	},
         {
           "PackageIdentifier": "Microsoft.WSL"
         },
