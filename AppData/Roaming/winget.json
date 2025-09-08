@@ -5,6 +5,9 @@
     {
       "Packages": [
 	{
+	  "PackageIdentifier": "AutoHotkey.AutoHotkey"
+	},
+	{
 	  "PackageIdentifier": "DEVCOM.JetBrainsMonoNerdFont"
 	},
         {
