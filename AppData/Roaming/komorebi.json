@@ -3,14 +3,14 @@
   "app_specific_configuration_path": "$Env:KOMOREBI_CONFIG_HOME/applications.json",
   "window_hiding_behaviour": "Cloak",
   "cross_monitor_move_behaviour": "Insert",
-  "default_workspace_padding": 0,
-  "default_container_padding": 0,
+  "default_workspace_padding": 10,
+  "default_container_padding": 1,
   "display_index_preferences": {
     "0": "SAME035-5&d95012c&2&UID4357",
     "1": "GSM7766-5&d95012c&2&UID4353"
   },
   "border": true,
-  "border_width": 0,
+  "border_width": 1,
   "border_offset": -1,
   "theme": {
     "palette": "Catppuccin",
